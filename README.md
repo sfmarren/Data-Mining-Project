@@ -1,4 +1,4 @@
-# Data Mining Group Project :)
+# Data Mining Group Project ⚡
 Carvana is an online used car dealership in the United States that buys and sells used cars through your devices or their famous car vending machines. For this project, our team at Hawkeye Consulting collaborated with Carvana to help set the prices for their used car inventory.  
 
 ### Background
